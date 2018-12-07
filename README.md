@@ -8,6 +8,7 @@
 ### Please view the following blogs for more info on this repo: 
 https://www.influxdata.com/blog/why-use-k-means-for-time-series-data-part-one/
 https://www.influxdata.com/blog/why-use-k-means-for-time-series-data-part-two/
+https://www.influxdata.com/blog/why-use-k-means-for-time-series-data-part-three/
 
 ### Files: 
  #### EKG Data with anomaly in line protocol (data ingest format for InfluxDB):
